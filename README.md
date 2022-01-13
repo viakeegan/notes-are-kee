@@ -29,10 +29,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 Landing Page
-![](./public/assets/images/homepage.png)
+![](./public/assets/images/homepage.PNG)
 
 Notes Page
-![](./public/assets/images/notespage.png)
+![](./public/assets/images/notespage.PNG)
 
 ## Deployment
 https://notes-are-kee.herokuapp.com/
